@@ -60,12 +60,25 @@ a {
     background-color: #e582a2;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 25%;
 }
 
 #right {
     background-color: #e55b88;
     border: 1px black solid;
     padding: 20px;
+    float: right;
+    width: 65%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
 
 img { width:300px; }
