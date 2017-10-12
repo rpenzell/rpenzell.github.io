@@ -43,6 +43,8 @@ a {
 #places {
     border: 1px black solid;
     padding: 20px;
+    float: left;
+
 }
 
 #families {
