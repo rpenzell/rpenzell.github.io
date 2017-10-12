@@ -11,6 +11,15 @@ body {
 section {
     padding:5em 0;
 }
+
+header {
+    background-color: #333;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 65%;
+}
+
 a {
     color: #ff4100;
 }
@@ -32,11 +41,6 @@ a {
     color:#fff;
 }
 .logo {
-    background-color: #fff
-    border: 1px black solid;
-    padding: 50px;
-    float: left;
-    width: 50%;
 }
 
 #destinations {
