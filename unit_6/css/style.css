@@ -51,13 +51,13 @@ a {
 }
 
 #two_column {
-    background-color: #ffb7cf;
+    background-color: #fff;
     border: 1px black solid;
     padding: 20px;
 }
 
 #left {
-    background-color: #e582a2;
+    background-color: #000;
     border: 1px black solid;
     padding: 20px;
     float: left;
@@ -65,7 +65,7 @@ a {
 }
 
 #right {
-    background-color: #e55b88;
+    background-color: #333;
     border: 1px black solid;
     padding: 20px;
     float: right;
