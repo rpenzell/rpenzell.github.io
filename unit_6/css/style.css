@@ -13,7 +13,8 @@ section {
 }
 
 nav {
-    float: left;
+    float: right;
+    padding: 5px;
 }
 
 header {
