@@ -32,7 +32,11 @@ a {
     color:#fff;
 }
 .logo {
-
+    background-color: #fff
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 50%;
 }
 
 #destinations {
