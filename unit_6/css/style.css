@@ -15,9 +15,9 @@ section {
 header {
     background-color: #333;
     border: 1px black solid;
-    padding: 20px;
+    padding: 10px;
     float: right;
-    width: 65%;
+    width: 100%;
 }
 
 a {
