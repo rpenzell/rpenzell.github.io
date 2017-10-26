@@ -103,4 +103,5 @@ a {
 img {
     width:300px; 
     float:left;
+    padding: .5em;
 }
