@@ -108,4 +108,13 @@ img {
     padding: .5em;
 }
 
-@media 
+@media screen only and (min-width: 500px) {
+    body {
+        font-size: 12px
+    }
+
+    img {
+        width: 100%;
+        padding: .5em;
+    }
+}
