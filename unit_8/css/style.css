@@ -45,6 +45,7 @@ a {
     font-family: 'Lora', serif;
     color:#fff;
 }
+
 .logo {
     color: #fff;
 }
@@ -99,4 +100,7 @@ a {
     height: 0;
 }
 
-img { width:300px; }
+img {
+    width:300px; 
+    float:left;
+}
