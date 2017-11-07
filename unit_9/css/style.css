@@ -31,8 +31,13 @@ header {
 a {
     color: #ff4100;
     float: left;
-
 }
+
+h1 {
+    padding-top: 1em;
+}
+
+
 #intro {
     background: url(../images/LandscapeHero.jpg);
     background-repeat:no-repeat;
