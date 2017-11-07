@@ -30,7 +30,6 @@ header {
 
 a {
     color: #ff4100;
-    float: left;
 }
 
 h1 {
@@ -49,6 +48,9 @@ h3 {
 ul {
     padding-left: 1.5em;
 }
+
+img { 
+    padding: .5em;
 
 
 #intro {
@@ -70,6 +72,7 @@ ul {
     font-family: 'Lora', serif;
     color:#fff;
     padding: 1.25em;
+    text-align: center;
 }
 
 #logo {
@@ -128,11 +131,6 @@ ul {
     content: " ";
     clear: both;
     height: 0;
-}
-
-img { 
-    float:left;
-    padding: .5em;
 }
 
 @media screen only and (min-width: 500px) {
