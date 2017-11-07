@@ -17,6 +17,10 @@ nav {
     display: inline-block;
 }
 
+nav a {
+    padding: 0 0 0 1.25em;
+}
+
 header {
     background-color: #333;
     border: 1px black solid;
