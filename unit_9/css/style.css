@@ -134,6 +134,7 @@ ul {
 img { 
     float:left;
     padding: .5em;
+    width: 100%;
 }
 
 @media screen only and (min-width: 500px) {
