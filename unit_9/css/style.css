@@ -50,6 +50,7 @@ a {
 #logo {
     color: #fff;
     float: left;
+
 }
 
 #destinations {
@@ -103,8 +104,7 @@ a {
     height: 0;
 }
 
-img {
-    width: 30%; 
+img { 
     float:left;
     padding: .5em;
 }
