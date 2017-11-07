@@ -110,15 +110,7 @@ ul {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 35%;
-}
-
-#right {
-    background-color: #333;
-    border: 1px black solid;
-    padding: 20px;
-    float: right;
-    width: 65%;
+    width: 100%;
 }
 
 .clearfix:after {
