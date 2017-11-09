@@ -85,7 +85,6 @@ ul {
 }
 
 #places {
-    border: 1px black solid;
     padding: 20px;
     float: left;
     width: 100%
@@ -93,7 +92,6 @@ ul {
 }
 
 #families {
-    border: 1px black solid;
     padding: 20px;
     width: 100%;
     float: left;
