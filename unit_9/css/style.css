@@ -124,12 +124,12 @@ ul {
 }
 
 #places a {
-    float: left
+    float: left;
     width: 33%;
 }
 
 #families a{
-    float: left
+    float: left;
     width: 33%;
 }
 
