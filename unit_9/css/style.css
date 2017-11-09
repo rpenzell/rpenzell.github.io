@@ -123,6 +123,16 @@ ul {
     height: 0;
 }
 
+#places a {
+    float: left
+    width: 33%;
+}
+
+#families a{
+    float: left
+    width: 33%;
+}
+
 img { 
     padding: .5em;
     width: 100%;
