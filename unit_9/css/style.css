@@ -145,5 +145,6 @@ img {
     img {
         width: 100%;
         padding: .5em;
+        float: left;
     }
 }
